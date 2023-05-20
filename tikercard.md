@@ -42,7 +42,7 @@ delay(500);
 
 ##image
 
-![display](https://www.tinkercad.com/things/2UZrJyXris0-fantabulous-wolt-rottis/editel?tenant=circuits.png)
+![display](https://github.com/shabeeba2003/assignment/blob/main/Fantabulous%20Wolt-Rottis.png)
 
 ##tinker card
 
