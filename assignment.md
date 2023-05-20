@@ -44,7 +44,7 @@ delay(500);
 
 ![display](https://github.com/shabeeba2003/assignment/blob/main/Fantabulous%20Wolt-Rottis.png)
 
-##tinker card
+## tinker card
 
 [tinker this](https://www.tinkercad.com/things/2UZrJyXris0-fantabulous-wolt-rottis/editel?tenant=circuits)
 -----
