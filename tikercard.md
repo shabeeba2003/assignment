@@ -51,4 +51,4 @@ delay(500);
 
 # 3d designing
 
-![keychain](https://github.com/shabeeba2003/assignment/blob/main/Epic Bruticus-Krunk.png)
+![keychain](https://github.com/shabeeba2003/10_Days_Internship/blob/main/img/Epic%20Bruticus-Krunk.png)
