@@ -6,7 +6,7 @@
 
 ##program
 
-
+```
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);  
   int analogInput = 0;
@@ -38,6 +38,7 @@ lcd.print("INPUT V= ");
 lcd.print(vin);
 delay(500);
 }
+```
 
 ##image
 
