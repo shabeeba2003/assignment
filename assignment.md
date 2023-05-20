@@ -1,10 +1,10 @@
-#DAY 10
+# DAY 10
 ---
-##EXAM 
+## EXAM 
 
-##**DESIGN A SIMPLE VOLT METER**
+## 1)DESIGN A SIMPLE VOLT METER**
 
-##program
+## program
 
 ```
 #include <LiquidCrystal.h>
@@ -40,7 +40,7 @@ delay(500);
 }
 ```
 
-##image
+## image
 
 ![display](https://github.com/shabeeba2003/assignment/blob/main/Fantabulous%20Wolt-Rottis.png)
 
@@ -49,7 +49,7 @@ delay(500);
 [tinker this](https://www.tinkercad.com/things/2UZrJyXris0-fantabulous-wolt-rottis/editel?tenant=circuits)
 -----
 
-# 3d designing
+# 2) 3d designing
 
 ![keychain](https://github.com/shabeeba2003/10_Days_Internship/blob/main/img/Epic%20Bruticus-Krunk.png)
 
